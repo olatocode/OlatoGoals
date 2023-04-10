@@ -1,5 +1,5 @@
 <!-- @format -->
 
-# OlatoGolas
+# OlatoGoals
 
 ## Goal setter App for OlatoGoals (MERN)
